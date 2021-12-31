@@ -1,0 +1,34 @@
+card
+{
+    "fullName": "Huynh Le Ty",
+    "dateOfBirth": "19/11/1999",
+    "gender": "boy",
+    "nation": "vietnam",
+    "address": "LX",
+    "hometown": "LX",
+    "registrationCity":"ANGIANG",
+    "owner": "TY"
+}
+
+{
+    "fullName":"tyhuynh",
+    "password":"tyhuynh",
+    "phoneNumber":"09999",
+    "dateOfBirth":"19111999"
+
+}
+
+
+{
+    "fingerprints": "indexFinger",
+    "personalIdentitification": "coseo",
+    "dateOfExpirity": "2130"
+}
+
+{
+    "cityName": "ANGIANG",
+    "currentNumber": "067"
+}
+
+npm 6.14.4 // 8.1
+node 10.19.0 //17

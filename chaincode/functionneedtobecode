@@ -1,0 +1,22 @@
+//User 
+
+Tạo interface cho user 
+Tạo UserContract, gồm các function:
+1. tạo new user
+2. update user
+3. đổi password
+4. kiếm tra user /verify User by police 
+5. lấy thông tin user
+6. Query user by query string( xử lý iterator)
+7. Init ledger thêm thông tin ng dùng mẫu
+
+// Card 
+
+Tạo interface cho card-identity
+Tạo CardContract, gồm các function:
+1. Tạo đăng ký làm cccd
+2. Chỉnh sửa đăng ký
+3. Tác quyền với đăng ký với ng dùng police (chấp nhận, hủy bỏ do lỗi thông tin)
+4. query card by id 
+5. getQueryResultForQueryString, (kèm xử lý iterator)
+6. 
